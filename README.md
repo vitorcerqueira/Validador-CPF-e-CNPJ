@@ -22,7 +22,7 @@ Criando validação CPF e CNPJ
 
 - HTML
 - Css
-  ---JavaScript
+- JavaScript
 
 ## 🙍‍♂️ Veja Mais Sobre Mim
 - [linkedin](https://www.linkedin.com/in/vitor-cerqueira-dos-santos-89768b147/)
